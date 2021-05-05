@@ -1,11 +1,14 @@
 {
-  "name": "code-scanning-demo",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+	"name": "code-scanning-demo",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
 	"devDependencies": {
 		"browser-sync": "^2.26.3",
-		"node-sass": "^4.11.0",
-		"jquery": "^3.3.1"
+		"jquery": "^3.3.1",
+		"node-sass": "^4.11.0"
+	},
+	"dependencies": {
+		"axios": "0.19.2"
 	}
 }
